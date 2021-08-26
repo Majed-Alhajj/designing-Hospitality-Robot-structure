@@ -7,3 +7,5 @@ I had added the solidworks files so the design can be modified.
 also there is a place in the robot head so you can use any mobile tablet as a screen.
 
 also there is a place in the arm to add a hand for other uses.
+
+Note: there is a pdf file shows the projections of the robot from the top,front and the side.
